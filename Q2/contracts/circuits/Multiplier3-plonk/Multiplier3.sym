@@ -1,0 +1,10 @@
+1,1,1,main.d
+2,2,1,main.a
+3,3,1,main.b
+4,4,1,main.c
+5,5,0,main.node1.z
+6,-1,0,main.node1.x
+7,-1,0,main.node1.y
+8,-1,0,main.node2.z
+9,-1,0,main.node2.x
+10,-1,0,main.node2.y
